@@ -1,5 +1,3 @@
-# this was for running episode and test the sucessful and failure
-
 import gymnasium as gym
 import numpy as np
 import imageio.v2 as imageio
