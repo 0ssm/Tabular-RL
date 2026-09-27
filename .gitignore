@@ -1,1 +1,5 @@
 .vscode/settings.json
+algorithms/__pycache__/monte_carlo.cpython-310.pyc
+experiments/__pycache__/run_blackjack_mc.cpython-310.pyc
+experiments/__pycache__/run_frozenlake_mc.cpython-310.pyc
+experiments/__pycache__/run_blackjack_mc_control.cpython-310.pyc
